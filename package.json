@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/NuzhatSiddiqi/bamazon/blob/master/README.md",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cli-table": "^0.3.1",
     "dotenv": "^8.0.0",
     "inquirer": "^6.3.1",
